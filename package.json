@@ -1,0 +1,22 @@
+{
+  "name": "onigiri_script",
+  "version": "1.0.0",
+  "description": "Replace text Onigiri",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komisan19/onigiri_script.git"
+  },
+  "author": "komisan19",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/komisan19/onigiri_script/issues"
+  },
+  "homepage": "https://github.com/komisan19/onigiri_script#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
